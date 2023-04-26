@@ -1,0 +1,40 @@
+footer{
+    background-color: rgb(4, 22, 7);
+    height:178px;
+    padding-top: 3%;
+}
+
+header{
+    width: 1327px;
+    height: 378px;
+    text-align: center;
+}
+li{
+    list-style: none;
+}
+.listItem{
+    position: relative;
+    top: 7%;
+    font: size 45px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+a{
+    color: #0c2402;
+}
+.ListItem1,
+.ListItem2,
+.ListItem3,
+.ListItem4{
+    margin: 1%;
+}
+body{
+    border: 1px solid rgb(1, 46, 11);
+    border-radius: 3px;
+    background-color: #d7eecf;
+}
+.tag{
+    color: #d7eecf;
+    position: relative;
+    top: 45%;
+    margin-left: 40%;
+}
